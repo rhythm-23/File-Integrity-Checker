@@ -1,4 +1,3 @@
-# File-Integrity-Checker
 # 🔥File Integrity Checker
 
 *COMPANY*: CODTECH IT SOLUTIONS
